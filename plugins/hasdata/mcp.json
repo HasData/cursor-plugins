@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hasdata": {
+      "type": "streamable-http",
+      "url": "https://mcp.hasdata.com/mcp",
+      "headers": {
+        "x-api-key": "${HASDATA_API_KEY}"
+      }
+    }
+  }
+}
