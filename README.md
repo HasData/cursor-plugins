@@ -33,7 +33,7 @@ https://mcp.hasdata.com/mcp
 
 ## What you need
 
-Cursor, and a HasData API key from the [dashboard](https://app.hasdata.com/sign-up?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins). The key is free to create with no card. This is a remote server, so a URL and a header is the whole setup.
+Cursor, and a HasData API key from the [dashboard](https://app.hasdata.com/sign-up?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin). The key is free to create with no card. This is a remote server, so a URL and a header is the whole setup.
 
 ## Install
 
@@ -213,7 +213,7 @@ The per-site rules carry the specific cases. Read them rather than inferring one
 
 Every successful call spends credits from the connected account. A call that fails validation is not billed. A request that returns an empty result set is a successful call and is billed.
 
-The free tier is 1,000 credits a month with no card. Current per-call costs are on the [plans page](https://hasdata.com/prices?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins).
+The free tier is 1,000 credits a month with no card. Current per-call costs are on the [plans page](https://hasdata.com/prices?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin).
 
 ## Repository layout
 
@@ -266,11 +266,11 @@ No. HasData is an independent web data provider and is not affiliated with, endo
 
 | | |
 | :--- | :--- |
-| Product and request builder | [HasData APIs](https://hasdata.com/apis/?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins) |
-| Server documentation | [MCP server docs](https://docs.hasdata.com/mcp-server?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins) |
-| Per-service MCP servers | [MCP servers](https://hasdata.com/mcp?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins) |
-| Client walkthroughs | [MCP clients and integrations](https://hasdata.com/integrations/mcp?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins) |
-| Plans and credit costs | [Plans and credit costs](https://hasdata.com/prices?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugins) |
+| Product and request builder | [HasData APIs](https://hasdata.com/apis/?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin) |
+| Server documentation | [MCP server docs](https://docs.hasdata.com/mcp-server?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin) |
+| Per-service MCP servers | [MCP servers](https://hasdata.com/mcp?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin) |
+| Client walkthroughs | [MCP clients and integrations](https://hasdata.com/integrations/mcp?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin) |
+| Plans and credit costs | [Plans and credit costs](https://hasdata.com/prices?utm_source=github&utm_medium=syndication&utm_campaign=cursor-plugin) |
 
 ## Contributing
 

@@ -9,7 +9,7 @@
     "url": "https://hasdata.com"
   },
   "homepage": "https://hasdata.com",
-  "repository": "https://github.com/HasData/cursor-plugins",
+  "repository": "https://github.com/HasData/hasdata-cursor-plugin",
   "license": "MIT",
   "keywords": [
     "mcp",
