@@ -1,6 +1,6 @@
 ---
 name: price-across-retailers
-description: Price one product across Amazon, Walmart, Google Shopping and a Shopify storefront, and report the comparison honestly. Use when the task is competitive pricing, a buy-versus-build cost check, or a repricing input.
+description: Compare the price of one product across Amazon, Walmart, Google Shopping and a named Shopify storefront. Matches the product on brand and model before comparing, and reports the market and delivery destination behind every figure. Use when the user asks to compare prices, asks whether something is cheaper somewhere else, or needs competitive pricing, a repricing input or a cost check across retailers.
 ---
 
 # Price across retailers

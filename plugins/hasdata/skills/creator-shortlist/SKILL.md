@@ -1,6 +1,6 @@
 ---
 name: creator-shortlist
-description: Vet creators across TikTok, Instagram and YouTube, and say plainly which engagement questions each platform can and cannot answer. Use for influencer shortlists, partnership due diligence and content research.
+description: Vet creators on TikTok, Instagram and YouTube, and state which engagement questions each platform can actually answer, since Instagram post payloads carry no like count, no comment count and no timestamp. Use for influencer shortlists, partnership due diligence, creator discovery and competitor channel research.
 ---
 
 # Creator shortlist across platforms

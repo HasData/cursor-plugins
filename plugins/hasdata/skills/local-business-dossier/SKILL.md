@@ -1,6 +1,6 @@
 ---
 name: local-business-dossier
-description: Build a profile of one local business or a set of them from Google Maps, Yelp, Yellow Pages and Facebook, with contact details and reputation reconciled across sources. Use for lead research, competitor checks or NAP verification.
+description: Profile a local business, or a list of them, from Google Maps, Yelp, Yellow Pages and Facebook, then reconcile the contact details and ratings that the four directories disagree on. Use for lead lists, local competitor research, reputation checks and NAP audits, and whenever the user wants phone numbers, addresses or reviews for businesses in a place.
 ---
 
 # Local business dossier

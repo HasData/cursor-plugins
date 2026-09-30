@@ -1,6 +1,6 @@
 ---
 name: serp-visibility
-description: Check how a site or a query ranks across Google, Bing and DuckDuckGo in one pass, including the AI Overview and the Copilot answer. Use for rank tracking, share-of-voice checks and AI answer monitoring.
+description: Check how a domain or a query ranks on Google, Bing and DuckDuckGo in one pass, including the AI Overview, the Copilot answer and Search Assist. Handles the three different targeting notations and the fact that a position is counted per page on two of the three engines. Use for rank tracking, share of voice, AI answer monitoring and any question about who ranks for what.
 ---
 
 # Visibility across search engines
